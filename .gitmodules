@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dynaTree"]
 	path = dynaTree
 	url = https://github.com/cran/dynaTree
-	shallow = true
-	registered = true
 [submodule "laGP"]
 	path = laGP
 	url = https://github.com/cran/laGP
-	shallow = true
-	registered = true
 [submodule "maptree"]
 	path = maptree
 	url = https://github.com/cran/maptree
-	shallow = true
-	registered = true
 [submodule "monomvn"]
 	path = monomvn
 	url = https://github.com/cran/monomvn
-	shallow = true
-	registered = true
 [submodule "plgp"]
 	path = plgp
 	url = https://github.com/cran/plgp
-	shallow = true
-	registered = true
 [submodule "reglogit"]
 	path = reglogit
 	url = https://github.com/cran/reglogit
-	shallow = true
-	registered = true
 [submodule "tgp"]
 	path = tgp
 	url = https://github.com/cran/tgp
-	shallow = true
-	registered = true
